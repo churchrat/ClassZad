@@ -1,0 +1,14 @@
+D:\homeworke\Classes\ClassPerson\obj\Debug\net8.0\ClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\Classes\ClassPerson\obj\Debug\net8.0\ClassPerson.AssemblyInfoInputs.cache
+D:\homeworke\Classes\ClassPerson\obj\Debug\net8.0\ClassPerson.AssemblyInfo.cs
+D:\homeworke\Classes\ClassPerson\obj\Debug\net8.0\ClassPerson.csproj.CoreCompileInputs.cache
+D:\homeworke\Classes\ClassPerson\bin\Debug\net8.0\ClassPerson.exe
+D:\homeworke\Classes\ClassPerson\bin\Debug\net8.0\ClassPerson.deps.json
+D:\homeworke\Classes\ClassPerson\bin\Debug\net8.0\ClassPerson.runtimeconfig.json
+D:\homeworke\Classes\ClassPerson\bin\Debug\net8.0\ClassPerson.dll
+D:\homeworke\Classes\ClassPerson\bin\Debug\net8.0\ClassPerson.pdb
+D:\homeworke\Classes\ClassPerson\obj\Debug\net8.0\ClassPerson.dll
+D:\homeworke\Classes\ClassPerson\obj\Debug\net8.0\refint\ClassPerson.dll
+D:\homeworke\Classes\ClassPerson\obj\Debug\net8.0\ClassPerson.pdb
+D:\homeworke\Classes\ClassPerson\obj\Debug\net8.0\ClassPerson.genruntimeconfig.cache
+D:\homeworke\Classes\ClassPerson\obj\Debug\net8.0\ref\ClassPerson.dll
