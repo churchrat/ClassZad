@@ -1,0 +1,15 @@
+D:\homeworke\Classes\FamilyHome\bin\Debug\net8.0\FamilyHome.exe
+D:\homeworke\Classes\FamilyHome\bin\Debug\net8.0\FamilyHome.deps.json
+D:\homeworke\Classes\FamilyHome\bin\Debug\net8.0\FamilyHome.runtimeconfig.json
+D:\homeworke\Classes\FamilyHome\bin\Debug\net8.0\FamilyHome.dll
+D:\homeworke\Classes\FamilyHome\bin\Debug\net8.0\FamilyHome.pdb
+D:\homeworke\Classes\FamilyHome\obj\Debug\net8.0\FamilyHome.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\Classes\FamilyHome\obj\Debug\net8.0\FamilyHome.AssemblyInfoInputs.cache
+D:\homeworke\Classes\FamilyHome\obj\Debug\net8.0\FamilyHome.AssemblyInfo.cs
+D:\homeworke\Classes\FamilyHome\obj\Debug\net8.0\FamilyHome.csproj.CoreCompileInputs.cache
+D:\homeworke\Classes\FamilyHome\obj\Debug\net8.0\FamilyHome.sourcelink.json
+D:\homeworke\Classes\FamilyHome\obj\Debug\net8.0\FamilyHome.dll
+D:\homeworke\Classes\FamilyHome\obj\Debug\net8.0\refint\FamilyHome.dll
+D:\homeworke\Classes\FamilyHome\obj\Debug\net8.0\FamilyHome.pdb
+D:\homeworke\Classes\FamilyHome\obj\Debug\net8.0\FamilyHome.genruntimeconfig.cache
+D:\homeworke\Classes\FamilyHome\obj\Debug\net8.0\ref\FamilyHome.dll
