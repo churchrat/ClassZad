@@ -37,9 +37,5 @@ namespace FamilyHome
         {
             Console.WriteLine($"I am {this.name} and am {this.age} years old.");
         }
-        public void PrintOldestAndYoungest()
-        {
-            Console.WriteLine($"ime: {Name}, godini: {Age}");
-        }
     }
 }

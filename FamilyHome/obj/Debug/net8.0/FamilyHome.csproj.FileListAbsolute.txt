@@ -13,3 +13,18 @@ D:\homeworke\Classes\FamilyHome\obj\Debug\net8.0\refint\FamilyHome.dll
 D:\homeworke\Classes\FamilyHome\obj\Debug\net8.0\FamilyHome.pdb
 D:\homeworke\Classes\FamilyHome\obj\Debug\net8.0\FamilyHome.genruntimeconfig.cache
 D:\homeworke\Classes\FamilyHome\obj\Debug\net8.0\ref\FamilyHome.dll
+C:\Михаил Кръстев 9а\ClassZad\ClassZad\FamilyHome\bin\Debug\net8.0\FamilyHome.exe
+C:\Михаил Кръстев 9а\ClassZad\ClassZad\FamilyHome\bin\Debug\net8.0\FamilyHome.deps.json
+C:\Михаил Кръстев 9а\ClassZad\ClassZad\FamilyHome\bin\Debug\net8.0\FamilyHome.runtimeconfig.json
+C:\Михаил Кръстев 9а\ClassZad\ClassZad\FamilyHome\bin\Debug\net8.0\FamilyHome.dll
+C:\Михаил Кръстев 9а\ClassZad\ClassZad\FamilyHome\bin\Debug\net8.0\FamilyHome.pdb
+C:\Михаил Кръстев 9а\ClassZad\ClassZad\FamilyHome\obj\Debug\net8.0\FamilyHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Михаил Кръстев 9а\ClassZad\ClassZad\FamilyHome\obj\Debug\net8.0\FamilyHome.AssemblyInfoInputs.cache
+C:\Михаил Кръстев 9а\ClassZad\ClassZad\FamilyHome\obj\Debug\net8.0\FamilyHome.AssemblyInfo.cs
+C:\Михаил Кръстев 9а\ClassZad\ClassZad\FamilyHome\obj\Debug\net8.0\FamilyHome.csproj.CoreCompileInputs.cache
+C:\Михаил Кръстев 9а\ClassZad\ClassZad\FamilyHome\obj\Debug\net8.0\FamilyHome.sourcelink.json
+C:\Михаил Кръстев 9а\ClassZad\ClassZad\FamilyHome\obj\Debug\net8.0\FamilyHome.dll
+C:\Михаил Кръстев 9а\ClassZad\ClassZad\FamilyHome\obj\Debug\net8.0\refint\FamilyHome.dll
+C:\Михаил Кръстев 9а\ClassZad\ClassZad\FamilyHome\obj\Debug\net8.0\FamilyHome.pdb
+C:\Михаил Кръстев 9а\ClassZad\ClassZad\FamilyHome\obj\Debug\net8.0\FamilyHome.genruntimeconfig.cache
+C:\Михаил Кръстев 9а\ClassZad\ClassZad\FamilyHome\obj\Debug\net8.0\ref\FamilyHome.dll
